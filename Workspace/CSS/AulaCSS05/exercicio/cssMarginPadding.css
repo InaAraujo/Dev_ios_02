@@ -1,0 +1,71 @@
+@charset "utf-8";
+* {
+ margin: 0;
+ padding: 0;
+ border: none;
+ top: 0;
+}
+body {
+ background-color: #f4f4f4;
+ color: #0a0a0a;
+ font: normal 16px Arial, Helvetica, sans-serif;
+ line-height: 1.6em;
+ margin: 0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.btn2 {
+    background-color: rgb(146, 122, 122);
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+}
+.container 
+{
+    width: 80%;
+    margin: 10px 30px;
+}
+
+.box-1 
+{
+
+    background-image: url('ruby2.jpg');
+    background-color: rgb(163, 148, 148);
+    color: rgb(7, 6, 6);
+    border-right: 5px rgb(168, 113, 113) solid;
+    border-left: 5px rgb(168, 113, 113) solid;
+    border-top: 5px rgb(168, 113, 113) solid;
+    border-bottom: 5px rgb(168, 113, 113) solid;
+    border-width: 6px;
+    border-bottom-width: 5px;
+    border-top-style: dotted;
+    padding: 10px;
+    margin: 10px;
+    
+}
+
+.box-2
+{
+    background-image: url('ruby2.jpg');
+    background-color: rgb(163, 148, 148);
+    color: rgb(7, 6, 6);
+    border-right: 5px rgb(168, 113, 113) solid;
+    border-left: 5px rgb(168, 113, 113) solid;
+    border-top: 5px rgb(168, 113, 113) solid;
+    border-bottom: 5px rgb(168, 113, 113) solid;
+    border-width: 6px;
+    border-bottom-width: 5px;
+    border-top-style: outset;
+    padding: 5px;
+    margin: 10px;
+   
+}
