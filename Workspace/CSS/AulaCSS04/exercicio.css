@@ -1,6 +1,6 @@
 body{
     background-color: bisque;
-    color: #5454ec;
+    color: #050505;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin-left: auto;
     margin-right: auto;
@@ -8,16 +8,10 @@ body{
     
     }
     
-    p{
-        background-color: #aeaed4;
-        text-align: center;
-        font-size: 0.9em;
-        text-indent: 3em;
-    }
-    
+      
     h1{
-        background-color: #aeaed4;
-        color: #313197;
+        background-color: #74e796;
+        color: #040407;
         /*border-top: 2px solid #e6e6fa;*/
         border-width: 2px;
         border-style: solid;
@@ -27,9 +21,12 @@ body{
     }
     
 
+
     td{
+        color: black;
         border-width: 2px;
         border-style: solid;
         border-color: black;
-        
     }
+
+   
